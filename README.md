@@ -6,6 +6,6 @@ To find the food combinations you can afford with Katie's Badass Menu Calculator
 
 ```ruby tablexi_challenge.rb```
 
-It will prompt you to enter the path to your menu file, and output your results!
+It will prompt you to enter the path to your menu file, and output your results! (Two test files are included right in the repo - 'test.txt', 'test2.txt')
 
 Happy Eating :)
