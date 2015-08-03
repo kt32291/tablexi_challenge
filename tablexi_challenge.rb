@@ -87,6 +87,6 @@ class Menu
 
 end
 
-puts "Enter the path to your menu file:"
+puts "Enter the path to your menu file and press enter:"
 
 Menu.new(open(gets.chomp)).get_combinations
